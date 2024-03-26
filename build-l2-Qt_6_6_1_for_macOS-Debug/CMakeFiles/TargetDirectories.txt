@@ -1,0 +1,9 @@
+/Users/anastasiia/Desktop/UNI/practice/software-design-practice/build-l2-Qt_6_6_1_for_macOS-Debug/CMakeFiles/l2.dir
+/Users/anastasiia/Desktop/UNI/practice/software-design-practice/build-l2-Qt_6_6_1_for_macOS-Debug/CMakeFiles/edit_cache.dir
+/Users/anastasiia/Desktop/UNI/practice/software-design-practice/build-l2-Qt_6_6_1_for_macOS-Debug/CMakeFiles/rebuild_cache.dir
+/Users/anastasiia/Desktop/UNI/practice/software-design-practice/build-l2-Qt_6_6_1_for_macOS-Debug/CMakeFiles/list_install_components.dir
+/Users/anastasiia/Desktop/UNI/practice/software-design-practice/build-l2-Qt_6_6_1_for_macOS-Debug/CMakeFiles/install.dir
+/Users/anastasiia/Desktop/UNI/practice/software-design-practice/build-l2-Qt_6_6_1_for_macOS-Debug/CMakeFiles/install/local.dir
+/Users/anastasiia/Desktop/UNI/practice/software-design-practice/build-l2-Qt_6_6_1_for_macOS-Debug/CMakeFiles/install/strip.dir
+/Users/anastasiia/Desktop/UNI/practice/software-design-practice/build-l2-Qt_6_6_1_for_macOS-Debug/CMakeFiles/l2_autogen_timestamp_deps.dir
+/Users/anastasiia/Desktop/UNI/practice/software-design-practice/build-l2-Qt_6_6_1_for_macOS-Debug/CMakeFiles/l2_autogen.dir
